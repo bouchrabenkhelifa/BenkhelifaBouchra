@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Bouchra Benkhelifa
-
-💻 **Full Stack Developer** | Passionnée par l’IA, l’IoT, et le développement d’applications web et machine learning.  
-📚 Toujours en apprentissage et à la recherche de nouveaux défis techniques.  
+💻 Full Stack Developer | Passionate about AI, IoT, and developing web and machine learning applications.
+📚 Always learning and seeking new technical challenges.
 
 ---
 
@@ -52,9 +51,10 @@
 ---
 
 ## 📡 IoT
-- Raspberry Pi avec accès **VNC**
-- Arduino pour prototypage matériel
-- Applications Machine Learning & Deep Learning intégrées à l’IoT
+Familiar with IoT development using Raspberry Pi (VNC) and Arduino.
+Interested in Machine Learning and Deep Learning applications.
+
+
 
 ---
 
