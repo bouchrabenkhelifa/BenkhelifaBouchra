@@ -51,10 +51,17 @@
 ---
 
 ## 📡 IoT
-Familiar with IoT development using Raspberry Pi (VNC) and Arduino.
-Interested in Machine Learning and Deep Learning applications.
+Working with Raspberry Pi (via VNC) and Arduino
+Coding for embedded systems and sensors
+Using different communication protocols (I²C, SPI, UART, MQTT)
 
+---
 
+## 🤖 Machine Learning  
+- Supervised & Unsupervised Learning  
+- Deep Learning (CNN, RNN, LSTM)
+- Data preprocessing & feature engineering  
+- Model tuning and optimization  
 
 ---
 
