@@ -57,7 +57,7 @@ Using different communication protocols (I²C, SPI, UART, MQTT)
 
 ---
 
-## 🤖 Machine Learning  
+## 🤖 AI
 - Supervised & Unsupervised Learning  
 - Deep Learning (CNN, RNN, LSTM)
 - Data preprocessing & feature engineering  
