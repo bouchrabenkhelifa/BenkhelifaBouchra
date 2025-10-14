@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Bouchra Benkhelifa
-💻 Full Stack Developer | Passionate about AI, IoT, and developing web and machine learning applications.
+💻 Full Stack Developer | Passionate about AI, IoT and Dev
 📚 Always learning and seeking new technical challenges.
 
 ---
@@ -60,6 +60,7 @@ Using different communication protocols (I²C, SPI, UART, MQTT)
 ## 🤖 AI
 - Supervised & Unsupervised Learning  
 - Deep Learning (CNN, RNN, LSTM)
+- NLP
 - Data preprocessing & feature engineering  
 - Model tuning and optimization  
 
